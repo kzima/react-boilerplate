@@ -5,7 +5,7 @@ export default class extends Component {
     super();
 
     this.state = {
-      value: 1
+      value: "xd"
     }
   }
 
